@@ -1,8 +1,8 @@
 ## 📲 Connect With Me
 
 <p align="center">
-  <a href="https://wa.me/919103594759?text=I%20hire%20you" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-I%20Hire%20You-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://wa.me/919103594759?text=i%20hire%20you" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%20Hire%20You-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://www.instagram.com/root.access.granted" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
