@@ -35,7 +35,7 @@
 ### 📫 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/yourname" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto: muzamilmeer598@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
