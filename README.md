@@ -1,45 +1,66 @@
-# -Muzamilmeer
-<h1 align="center">Hi 👋, I'm Mr. MiracleCodes</h1>
-<h3 align="center">🚀 A Passionate Developer from Bandipora, India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Muzamil Meer</h1>
+<h3 align="center">💻 aka Mr.MiracleCodes — Developer | Dreamer | Doer ✨</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **MERN Stack + DevOps**
-- 👨‍💻 All of my projects are available at [github.com/Muzamilmeer](https://github.com/Muzamilmeer)
-- 💬 Ask me about **Python, React, JavaScript, Termux, and Cybersecurity**
-- 📫 Reach me at **yourmail@example.com**
-- ⚡ Fun fact: I code better with chai ☕ and lo-fi beats 🎧
-
----
-
-### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Debug.+Repeat.;Python+Lover+%F0%9F%94%A5;Web+Developer+%E2%9C%A8;Termux+Automation+%F0%9F%90%8C;Open+Source+Contributor+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
+### 🧠 About Me:
+
+- 🔭 Currently building: **Python tools, Termux CLI tools, Web Dev projects**
+- 📚 BCA 2nd Semester student, growing every line of code at a time
+- 💬 Ask me about **GitHub, Python, Termux, Automation & Productivity**
+- 🧠 Obsessed with **learning, shipping & solving real-world problems**
+- ❤️ Life mein balance = Code + College  + Caffeine ☕  
+- ✨ Goal: To work at **Google** or **Microsoft** (manifesting 🔮)
+
+---
+
+### 🛠️ Languages & Tools:
+
 <p align="left">
-  <a href="https://linkedin.com/in/yourname" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto: muzamilmeer598@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
 ---
 
-### 💡 Motto
-> "Code like there's no tomorrow, learn like you're gonna build the future."
+### 📈 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=tokyonight" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=tokyonight" width="400"/>
+</p>
+
+---
+
+### 📫 Connect With Me:
+
+- 📧 **muzamilmeer598@gmail.com**
+- 📍 **Bandipora, Kashmir 🇮🇳**
+- 📸 [**Instagram: @root.access.granted**](https://www.instagram.com/root.access.granted)
+- 🐍 *Coded with ❤️, Termux, and late-night coffee sessions*
+
+---
+
+### ✨ Quote of the Day:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200"/>
+</p>
