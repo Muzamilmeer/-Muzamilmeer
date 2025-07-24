@@ -9,7 +9,7 @@
   </a>
 </p>
  
- 🌐 [**My Portfolio Website**](https://ctrlxmir.github.io/reactify-mir/)
+ 🌐 [**My Portfolio Website**](https://github.com/Muzamilmeer/reactify-mir)
  <h1 align="center">Hi 👋, I'm Muzamil Meer</h1>
 <h3 align="center">💻 aka Mr.MiracleCodes — Developer | Dreamer | Doer ✨</h3>
 
@@ -28,7 +28,7 @@
 ### 🧠 About Me:
 
 - 🔭 Currently building: **Python tools, Termux CLI tools, Web Dev projects**
-- 📚 BCA 2nd Semester student, growing every line of code at a time
+- 📚 BCA 3nd Semester student, growing every line of code at a time
 - 💬 Ask me about **GitHub, Python, Termux, Automation & Productivity**
 - 🧠 Obsessed with **learning, shipping & solving real-world problems**
 - ❤️ Life mein balance = Code + College  + Caffeine ☕  
