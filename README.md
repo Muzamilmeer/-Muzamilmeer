@@ -9,7 +9,7 @@
   </a>
 </p>
  
- 🌐 [**My Portfolio Website**]
+ 🌐 [**My Portfolio Website**] https://muzamilmeer.github.io/reactify-mir/
  <h1 align="center">Hi 👋, I'm Muzamil Meer</h1>
 <h3 align="center">💻 aka Mr.MiracleCodes — Developer | Dreamer | Doer ✨</h3>
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Languages &https://muzamilmeer.github.io/reactify-mir/ Tools:
+### 🛠️ Languages & Tools:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
