@@ -60,6 +60,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=tokyonight" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=radical&border_radius=15&title_color=FF61D4&icon_color=FF61D4&text_color=FFFFFF&bg_color=0D1117" width="400"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=radical&ring=FF61D4&fire=FF61D4&currStreakLabel=FF61D4" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61D4&text_color=FFFFFF" width="400"/>
+</p>
+
+<!-- Stylish GIF below -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+</p>
+
 ---
 
 ### 📫 Connect With Me:
