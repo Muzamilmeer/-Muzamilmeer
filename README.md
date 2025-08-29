@@ -1,4 +1,4 @@
-## 📲 Connect With Me
+  ## 📲 Connect With Me
 
 <p align="center">
   <a href="https://wa.me/919103594759?text=i%20hire%20you" target="_blank">
@@ -11,7 +11,7 @@
  
  🌐 [**My Portfolio Website**] https://muzamilmeer.github.io/reactify-mir/
  <h1 align="center">Hi 👋, I'm Muzamil Meer</h1>
-<h3 align="center">💻 aka Mr.MiracleCodes — Developer | Dreamer | Doer ✨</h3>
+<h3 align="center">💻 aka Muzamil — Developer | Dreamer | Doer ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Debug.+Repeat.;Python+Lover+%F0%9F%94%A5;Web+Developer+%E2%9C%A8;Termux+Automation+%F0%9F%90%8C;Open+Source+Contributor+%F0%9F%91%8D" alt="Typing SVG" />
@@ -52,22 +52,22 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=tokyonight&custom_title=Muzamil%20GitHub%20Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=tokyonight&currStreakLabel=Muzamil" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=tokyonight&custom_title=Languages%20Used%20By%20Muzamil" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=radical&border_radius=15&title_color=FF61D4&icon_color=FF61D4&text_color=FFFFFF&bg_color=0D1117" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzamilmeer&show_icons=true&theme=radical&border_radius=15&title_color=FF61D4&icon_color=FF61D4&text_color=FFFFFF&bg_color=0D1117&custom_title=Muzamil%20GitHub%20Stats" width="400"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=radical&ring=FF61D4&fire=FF61D4&currStreakLabel=FF61D4" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzamilmeer&theme=radical&ring=FF61D4&fire=FF61D4&currStreakLabel=Muzamil" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61D4&text_color=FFFFFF" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61D4&text_color=FFFFFF&custom_title=Languages%20Used%20By%20Muzamil" width="400"/>
 </p>
 
 <!-- Stylish GIF below -->
