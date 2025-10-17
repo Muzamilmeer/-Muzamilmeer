@@ -20,7 +20,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+  <img src="https://res.cloudinary.com/dvoajjpb6/image/upload/v1760691214/134f97ea-90ef-4da3-a211-87a7fe1934d0_h54stz.jpg" width="200"/>
+  <img src="https://res.cloudinary.com/dvoajjpb6/image/upload/v1760691256/62e5467472a42b2d96cce27257a97374_qhasf2.jpg" width="200"/>
+  
 </p>
 
 ---
@@ -31,7 +33,7 @@
 - 📚 BCA 3nd Semester student, growing every line of code at a time
 - 💬 Ask me about **GitHub, Python, Termux, Automation & Productivity**
 - 🧠 Obsessed with **learning, shipping & solving real-world problems**
-- ❤️ Life mein balance = Code + College  + Caffeine ☕  
+- ❤️ Life mein balance = Code + College  + Caffeine ☕
 - ✨ Goal: To work at **Google** or **Microsoft** (manifesting 🔮)
 
 ---
