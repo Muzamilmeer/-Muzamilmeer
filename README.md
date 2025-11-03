@@ -18,12 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1762147410/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf_t5xncf.gif" width="200"/>
-  <img src="" width="300"/>
-  <img src="" width="200"/>
-  <img src="" width="200"/>
-
-  <img src="" width="200"/>
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1762147402/hello_nmb1cs.gif" width="300 height="300 "/>
   
 </p>
 
