@@ -76,7 +76,7 @@
 
 <!-- Stylish GIF below -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1762147410/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf_t5xncf.gif" width="220" />
 </p>
 
 ---
