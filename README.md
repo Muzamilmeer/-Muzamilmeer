@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dxjkbpmgm/image/upload/v1762147410/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf_t5xncf.gif" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzamilmeer&layout=compact&theme=radical&bg_color=0D1117&title_color=FF61D4&text_color=FFFFFF&custom_title=Languages%20Used%20By%20Muzamil" width="400"/>
 </p>
 
 <!-- Stylish GIF below -->
